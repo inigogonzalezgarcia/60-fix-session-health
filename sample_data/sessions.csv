@@ -1,0 +1,13 @@
+Session,Counterparty,Purpose,Critical,FIXVersion,HeartBtInt,StartTime,EndTime,Primary,Backup,BackupTested,CertExpiry,Owner,Desk
+FABMKT->TAILSPIN,Tailspin Bank,orders,yes,FIX.4.4,30,06:30,22:00,fixgw-mad-01,fixgw-bcn-01,2026-07-11,2027-03-15,,Rates
+FABMKT->TAILSPIN-AL,Tailspin Bank,allocations,no,FIX.4.4,30,06:30,22:00,fixgw-mad-01,,,2027-03-15,,Operations
+FABMKT->NWCLEAR-DC,Northwind Clearing,drop copy,yes,FIX.4.4,30,06:30,22:00,fixgw-mad-02,fixgw-bcn-02,2026-09-19,2027-05-02,,Operations
+FABMKT->LITWARE-MD,Litware Securities,market data,no,FIX.5.0SP2,30,06:30,22:00,mdgw-mad-01,,,2027-01-30,,Rates
+FABMKT->ADATUM,Adatum Capital,orders,yes,FIX.4.4,30,06:30,22:00,fixgw-mad-01,fixgw-bcn-01,2026-06-20,2027-02-11,,Equities
+FABMKT->CONTOSO-MTF,Contoso MTF,orders,yes,FIX.4.4,30,06:30,22:00,fixgw-mad-02,fixgw-bcn-02,2026-10-03,2026-11-26,,Rates
+FABMKT->CONTOSO-DC,Contoso MTF,drop copy,no,FIX.4.4,30,06:30,22:00,fixgw-mad-02,,,2026-11-26,,Operations
+FABMKT->PROSEWARE,Proseware MTF,orders,yes,FIX.4.4,30,06:30,22:00,fixgw-mad-01,fixgw-bcn-01,,2027-04-20,,Credit
+FABMKT->WINGTIP-AL,Wingtip Prime,allocations,no,FIX.4.4,30,06:30,22:00,fixgw-mad-02,,,2027-06-01,,Operations
+FABMKT->WOODGROVE-RFQ,Woodgrove Bank,orders,no,FIX.4.4,30,06:30,22:00,fixgw-mad-01,,,2027-02-28,,Credit
+FABMKT->RELECLOUD-RFQ,Relecloud Securities,orders,no,FIX.4.4,30,06:30,22:00,fixgw-mad-02,,,2027-01-15,,Equities
+FABMKT->TREY-MD,Trey Research Markets,market data,no,FIX.5.0SP2,30,06:30,22:00,mdgw-mad-01,,,2027-08-09,,Equities

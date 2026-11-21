@@ -1,0 +1,13 @@
+{
+  "organisation": "Fabrikam Markets",
+  "review": "2026-11-21 09:00:00",
+  "days": 5,
+  "market_open": "08:00",
+  "market_close": "17:30",
+  "previous_score": 84.2,
+  "owners": {
+    "etrading": "Óscar Lara (Electronic trading support)",
+    "network": "Nuria Pons (Network team)",
+    "onboarding": "Clara Vidal (Client onboarding)"
+  }
+}
